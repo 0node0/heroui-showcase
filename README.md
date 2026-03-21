@@ -19,6 +19,16 @@ This demo application includes 4 fully-designed pages:
    - Tooltips
    - Keyboard shortcuts (Kbd)
 
+## 📸 Screenshots
+
+*Deployment pending - screenshots coming soon!*
+
+Once deployed, this section will showcase:
+- Landing page with hero sections and pricing cards
+- Dashboard with data tables and activity feeds
+- Forms page with interactive inputs and pickers
+- Components gallery featuring 30+ HeroUI components
+
 ## 🚀 Tech Stack
 
 - **React 19** - Latest React with modern features
@@ -100,11 +110,3 @@ All pages are fully responsive and optimized for:
 ## 🌐 Deployment
 
 This app is deployed on Vercel with automatic deployments from GitHub.
-
-## 📄 License
-
-MIT - Free to use for personal and commercial projects.
-
----
-
-Built with ❤️ using HeroUI v3
